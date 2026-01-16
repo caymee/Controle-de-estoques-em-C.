@@ -19,6 +19,7 @@ Um programa em C que simula o controle básico de um estoque. Nele é possível 
 
 ## Licença  
 
-Este projeto está licenciado sob a MIT License - veja o arquivo []() para mais detalhes.  
+Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes.  
+  
 
 
