@@ -2,6 +2,7 @@
 Um programa em C que simula o controle básico de um estoque. Nele é possível adicionar, remover e listar itens.
 
 ## Demonstração:
+![Menu do programa](images/menu.png)
 
 ## Pré-requisitos:
 - Sistema operacional: Linux, macOS ou Windows
