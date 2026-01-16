@@ -16,7 +16,10 @@ Um programa em C que simula o controle básico de um estoque. Nele é possível 
 ├── main.c
 ├── estoque
 ├── estoque.txts
+├── images/          
+│     ├── menu.png
 └── README.md
+
 
 ## Licença  
 
