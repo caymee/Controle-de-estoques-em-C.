@@ -9,7 +9,7 @@ Um programa em C que simula o controle básico de um estoque. Nele é possível 
 - Compilador C (ex: GCC)
 - Terminal para execução do programa
 - No terminal, dentro do diretório do projeto, execute:
-```bash
+bash
 gcc main.c -o estoque
 
  ## Uso e exemplos de comando:
@@ -17,10 +17,7 @@ gcc main.c -o estoque
 
  ## Estrutura do projeto:
 ├── main.c
-├── estoque
-├── estoque.txts
 ├── images/          
-│     ├── menu.png
 └── README.md
 
 ### Como usar o projeto
